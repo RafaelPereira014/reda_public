@@ -1,7 +1,7 @@
 # REDA - Educational Resources Platform
 
 
-## 🔗 [Live Now](https://reda-staging.edu.azores.gov.pt/)
+## 🔗 [Live Now](https://reda.edu.azores.gov.pt/)
 
 ## 📚 About the Project
 
